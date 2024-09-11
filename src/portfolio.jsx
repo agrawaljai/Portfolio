@@ -8,7 +8,7 @@ const about = {
   role: 'Full Stack Developer / Computer Science Engineer',
   description:
     'Computer Science student at NIT Surat with a strong passion for software development and web technologies having hands-on experience with a wide range of tools and frameworks, I enjoy building efficient, responsive, and secure applications. Eager to connect, collaborate, and apply my knowledge to real-world challenges, I am always looking for opportunities to learn, grow, and contribute to the tech community.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1edDi1SHpjIXz-TyQwB0-ykVgppi9uTUP/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/jai-agrawal-601584253/',
     github: 'https://github.com/agrawaljai',
