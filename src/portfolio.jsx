@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://agrawaljai.github.io/Portfolio/',
   title: '{{jai agrawal}}',
 }
 
@@ -33,7 +33,7 @@ const projects = [
     livePreview: 'https://bloging-website-rmwq.onrender.com/',
   },
   {
-    name: 'Project 3',
+    name: 'Short-URL',
     description:
     'This short URL service website offers secure authentication and authorization, utilizing JWT tokens for cookie management. It provides a seamless and optimized experience with a stunning UI, ensuring fast performance and efficient functionality for users.',
     stack: ['NodeJS', 'MongoDB', 'JWT', 'Bootstrap', 'ExpressJS'],
